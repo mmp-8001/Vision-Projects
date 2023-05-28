@@ -13,6 +13,6 @@
  **نمونه‌های آفلاین**
  
  1. [فراخوان هلیوم پارک مشهد](https://drive.google.com/file/d/1P1Mqex2PW4yq5stEZlhE076kTo1vOk7F/view?usp=share_link)
- 2. [نمونه سایت فروشگاهی](https://drive.google.com/file/d/1P1Mqex2PW4yq5stEZlhE076kTo1vOk7F/view?usp=sharing)
+ 2. [نمونه سایت فروشگاهی](https://drive.google.com/file/d/1acGraPGoHHlnZDz6rLuhpWwMCdaa8TM9/view?usp=sharing)
  3. [نمونه بلاگ](https://drive.google.com/file/d/1xr_xo_hzhrva7pmX8dtEh21EFMY05mhJ/view?usp=sharing)
  4. [نمونه سایت فیلم](https://drive.google.com/file/d/1Cc2K2TW41TjzA1wNjdwkLGt8Icseer6B/view?usp=sharing)
